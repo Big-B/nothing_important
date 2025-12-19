@@ -1,0 +1,7 @@
+.imggrid {
+  display: grid;
+  gap: 1rem;
+}
+
+.imggrid-2 { grid-template-columns: repeat(2, 1fr); }
+.imggrid-3 { grid-template-columns: repeat(3, 1fr); }
