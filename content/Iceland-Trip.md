@@ -8,7 +8,18 @@ tags = ["travel", "iceland"]
 
 # Iceland Trip Itinerary (Oct 8–18, 2026)
 
-## Day 1 — Oct 8 (Arrival)
+## Day 1 — Oct 8 (Travel Day)
+**Route:** Flight to Iceland
+
+**Destinations**
+- Overnight flight to Iceland
+
+**Overnight**
+- In flight
+
+---
+
+## Day 2 — Oct 9 (Arrival)
 **Route:** Keflavík Airport → Blue Lagoon → Reykjavík
 **Driving Time:** 45–60 min total
 
@@ -24,7 +35,7 @@ tags = ["travel", "iceland"]
 
 ---
 
-## Day 2 — Oct 9 (Golden Circle)
+## Day 3 — Oct 10 (Golden Circle)
 **Route:** Reykjavík → Golden Circle → Selfoss
 **Driving Time:** 3–4 hrs total
 
@@ -40,7 +51,7 @@ tags = ["travel", "iceland"]
 
 ---
 
-## Day 3 — Oct 10 (South Coast Waterfalls)
+## Day 4 — Oct 11 (South Coast Waterfalls)
 **Route:** Selfoss → Seljalandsfoss → Skógafoss → Vík
 **Driving Time:** 2.5–3 hrs
 
@@ -55,7 +66,7 @@ tags = ["travel", "iceland"]
 
 ---
 
-## Day 4 — Oct 11 (Black Sand Coast)
+## Day 5 — Oct 12 (Black Sand Coast)
 **Route:** Vík → Reynisfjara → Fjaðrárgljúfur → Kirkjubæjarklaustur
 **Driving Time:** 1.5–2 hrs
 
@@ -69,27 +80,13 @@ tags = ["travel", "iceland"]
 
 ---
 
-## Day 5 — Oct 12 (Glaciers and Ice)
+## Day 6 — Oct 13 (Glaciers and Ice)
 **Route:** Kirkjubæjarklaustur → Skaftafell → Jökulsárlón
 **Driving Time:** 2.5–3 hrs
 
 ### Destinations
 - Skaftafell Nature Reserve
 - Svartifoss
-- Jökulsárlón Glacier Lagoon
-- Diamond Beach
-
-### Overnight
-- Jökulsárlón / Höfn area
-
----
-
-## Day 6 — Oct 13 (Ice Cave Day)
-**Route:** Local exploration around Jökulsárlón
-**Driving Time:** Less than 1 hr
-
-### Destinations
-- Vatnajökull Ice Cave Tour
 - Jökulsárlón Glacier Lagoon
 - Diamond Beach
 
@@ -128,7 +125,7 @@ tags = ["travel", "iceland"]
 
 ## Day 9 — Oct 16 (Snæfellsnes Peninsula)
 **Route:** South Iceland → Snæfellsnes Peninsula
-**Driving Time:** 3–4 hrs
+**Driving Time:** 4.5–5.5 hrs
 
 ### Destinations
 - Kirkjufell
@@ -170,5 +167,5 @@ tags = ["travel", "iceland"]
 ---
 
 ## Estimated Total Driving
-- Distance: 750–900 miles (1,200–1,450 km)
-- Driving Time: 18–24 hours across the trip
+- **Distance:** 700–850 miles (1,125–1,370 km)
+- **Driving Time:** 19–23 hours across the trip
