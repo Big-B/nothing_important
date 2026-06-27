@@ -24,14 +24,14 @@ tags = ["travel", "iceland"]
 **Driving Time:** 45–60 min total
 
 ### Destinations
-- Blue Lagoon
-- Reykjavík
-  - Hallgrímskirkja
-  - Old Harbor
+- [Blue Lagoon](https://maps.google.com/?q=Blue+Lagoon+Iceland)
+- [Reykjavík](https://maps.google.com/?q=Reykjavik+Iceland)
+  - [Hallgrímskirkja](https://maps.google.com/?q=Hallgrimskirkja+Reykjavik)
+  - [Old Harbor](https://maps.google.com/?q=Old+Harbor+Reykjavik)
   - City center
 
 ### Overnight
-- [**Reykjavík**](https://maps.google.com/?q=Reykjavik+Iceland)
+- **[Reykjavík](https://maps.google.com/?q=Reykjavik+Iceland)**
 
 ---
 
@@ -40,14 +40,14 @@ tags = ["travel", "iceland"]
 **Driving Time:** 3–4 hrs total
 
 ### Destinations
-- Þingvellir National Park
-- Geysir Geothermal Area
-- Strokkur Geyser
-- Gullfoss Waterfall
-- Kerið Crater (optional)
+- [Þingvellir National Park](https://maps.google.com/?q=Thingvellir+National+Park+Iceland)
+- [Geysir Geothermal Area](https://maps.google.com/?q=Geysir+Geothermal+Area+Iceland)
+- [Strokkur Geyser](https://maps.google.com/?q=Strokkur+Geyser+Iceland)
+- [Gullfoss Waterfall](https://maps.google.com/?q=Gullfoss+Waterfall+Iceland)
+- [Kerið Crater](https://maps.google.com/?q=Kerid+Crater+Iceland) *(optional)*
 
 ### Overnight
-- [**Selfoss area**](https://maps.google.com/?q=Selfoss+Iceland)
+- **[Selfoss](https://maps.google.com/?q=Selfoss+Iceland)**
 
 ---
 
@@ -56,13 +56,13 @@ tags = ["travel", "iceland"]
 **Driving Time:** 2.5–3 hrs
 
 ### Destinations
-- Seljalandsfoss
-- Gljúfrabúi
-- Skógafoss
-- Kvernufoss
+- [Seljalandsfoss](https://maps.google.com/?q=Seljalandsfoss+Iceland)
+- [Gljúfrabúi](https://maps.google.com/?q=Gljufrabui+Waterfall+Iceland)
+- [Skógafoss](https://maps.google.com/?q=Skogafoss+Iceland)
+- [Kvernufoss](https://maps.google.com/?q=Kvernufoss+Iceland)
 
 ### Overnight
-- [**Vík**](https://maps.google.com/?q=Vik+Iceland)
+- **[Vík](https://maps.google.com/?q=Vik+Iceland)**
 
 ---
 
@@ -71,12 +71,12 @@ tags = ["travel", "iceland"]
 **Driving Time:** 1.5–2 hrs
 
 ### Destinations
-- Dyrhólaey
-- Reynisfjara Black Sand Beach
-- Fjaðrárgljúfur Canyon
+- [Dyrhólaey](https://maps.google.com/?q=Dyrholaey+Iceland)
+- [Reynisfjara Black Sand Beach](https://maps.google.com/?q=Reynisfjara+Black+Sand+Beach)
+- [Fjaðrárgljúfur Canyon](https://maps.google.com/?q=Fjadrargljufur+Canyon)
 
 ### Overnight
-- [**Kirkjubæjarklaustur area**](https://maps.google.com/?q=Kirkjubaejarklaustur+Iceland)
+- **[Kirkjubæjarklaustur](https://maps.google.com/?q=Kirkjubaejarklaustur+Iceland)**
 
 ---
 
@@ -85,13 +85,13 @@ tags = ["travel", "iceland"]
 **Driving Time:** 2–2.5 hrs
 
 ### Destinations
-- Skaftafell Nature Reserve
-- Svartifoss
-- Jökulsárlón Glacier Lagoon
-- Diamond Beach
+- [Skaftafell Nature Reserve](https://maps.google.com/?q=Skaftafell+Nature+Reserve)
+- [Svartifoss](https://maps.google.com/?q=Svartifoss+Iceland)
+- [Jökulsárlón Glacier Lagoon](https://maps.google.com/?q=Jokulsarlon+Glacier+Lagoon)
+- [Diamond Beach](https://maps.google.com/?q=Diamond+Beach+Iceland)
 
 ### Overnight
-- [**Jökulsárlón / Höfn area**](https://maps.google.com/?q=Jokulsarlon+Glacier+Lagoon+Iceland)
+- **[Jökulsárlón](https://maps.google.com/?q=Jokulsarlon+Glacier+Lagoon)** *(or nearby Höfn)*
 
 ---
 
@@ -100,14 +100,14 @@ tags = ["travel", "iceland"]
 **Driving Time:** 5.5–6.5 hrs
 
 ### Destinations
-- Additional time at Diamond Beach
+- Additional time at [Diamond Beach](https://maps.google.com/?q=Diamond+Beach+Iceland)
 - Glacier viewpoints
 - Favorite South Coast stops
 - Lava fields
 - Scenic viewpoints
 
 ### Overnight
-- [**South Iceland (Selfoss / Hvolsvöllur)**](https://maps.google.com/?q=Selfoss+Iceland)
+- **[Selfoss](https://maps.google.com/?q=Selfoss+Iceland)** *(or Hvolsvöllur)*
 
 ---
 
@@ -116,14 +116,14 @@ tags = ["travel", "iceland"]
 **Driving Time:** 4.5–5.5 hrs
 
 ### Destinations
-- Kirkjufell
-- Snæfellsjökull National Park
+- [Kirkjufell](https://maps.google.com/?q=Kirkjufell+Iceland)
+- [Snæfellsjökull National Park](https://maps.google.com/?q=Snaefellsjokull+National+Park)
 - Coastal cliffs
 - Fishing villages
 - Lava fields
 
 ### Overnight
-- [**Snæfellsnes Peninsula (Grundarfjörður recommended)**](https://maps.google.com/?q=Grundarfjordur+Iceland)
+- **[Grundarfjörður](https://maps.google.com/?q=Grundarfjordur+Iceland)**
 
 ---
 
@@ -132,12 +132,12 @@ tags = ["travel", "iceland"]
 **Driving Time:** 2–2.5 hrs
 
 ### Destinations
-- Sky Lagoon (optional)
+- [Sky Lagoon](https://maps.google.com/?q=Sky+Lagoon+Iceland) *(optional)*
 - Reykjavík museums
 - Shopping and dining
 
 ### Overnight
-- [**Reykjavík**](https://maps.google.com/?q=Reykjavik+Iceland)
+- **[Reykjavík](https://maps.google.com/?q=Reykjavik+Iceland)**
 
 ---
 
@@ -146,7 +146,7 @@ tags = ["travel", "iceland"]
 **Driving Time:** 45–50 min
 
 ### Destinations
-- Keflavík Airport
+- [Keflavík International Airport](https://maps.google.com/?q=Keflavik+International+Airport)
 
 ### Departure
 - Return rental car
