@@ -6,7 +6,7 @@ date = 2026-06-27
 tags = ["travel", "iceland"]
 +++
 
-# Iceland Trip Itinerary (Oct 8–18, 2026)
+# Iceland Trip Itinerary (Oct 8–17, 2026)
 
 ## Day 1 — Oct 8 (Travel Day)
 **Route:** Flight to Iceland
@@ -82,7 +82,7 @@ tags = ["travel", "iceland"]
 
 ## Day 6 — Oct 13 (Glaciers and Ice)
 **Route:** Kirkjubæjarklaustur → Skaftafell → Jökulsárlón
-**Driving Time:** 2.5–3 hrs
+**Driving Time:** 2–2.5 hrs
 
 ### Destinations
 - Skaftafell Nature Reserve
@@ -95,25 +95,13 @@ tags = ["travel", "iceland"]
 
 ---
 
-## Day 7 — Oct 14 (Buffer Day)
-**Route:** Jökulsárlón → Vík
-**Driving Time:** 3.5–4 hrs
+## Day 7 — Oct 14 (Return West)
+**Route:** Jökulsárlón → Vík → Hvolsvöllur / Selfoss
+**Driving Time:** 5.5–6.5 hrs
 
 ### Destinations
 - Additional time at Diamond Beach
 - Glacier viewpoints
-- Höfn area (optional)
-
-### Overnight
-- Vík
-
----
-
-## Day 8 — Oct 15 (Return West)
-**Route:** Vík → Hvolsvöllur / Selfoss
-**Driving Time:** 2–2.5 hrs
-
-### Destinations
 - Favorite South Coast stops
 - Lava fields
 - Scenic viewpoints
@@ -123,7 +111,7 @@ tags = ["travel", "iceland"]
 
 ---
 
-## Day 9 — Oct 16 (Snæfellsnes Peninsula)
+## Day 8 — Oct 15 (Snæfellsnes Peninsula)
 **Route:** South Iceland → Snæfellsnes Peninsula
 **Driving Time:** 4.5–5.5 hrs
 
@@ -139,7 +127,7 @@ tags = ["travel", "iceland"]
 
 ---
 
-## Day 10 — Oct 17 (Reykjavík)
+## Day 9 — Oct 16 (Reykjavík)
 **Route:** Snæfellsnes → Reykjavík
 **Driving Time:** 2–2.5 hrs
 
@@ -153,9 +141,9 @@ tags = ["travel", "iceland"]
 
 ---
 
-## Day 11 — Oct 18 (Departure)
+## Day 10 — Oct 17 (Departure)
 **Route:** Reykjavík → Keflavík Airport
-**Driving Time:** 45 min
+**Driving Time:** 45–50 min
 
 ### Destinations
 - Keflavík Airport
