@@ -31,8 +31,7 @@ tags = ["travel", "iceland"]
   - City center
 
 ### Overnight
-- **Reykjavík**
-  - https://maps.google.com/?q=Reykjavik+Iceland
+- [**Reykjavík**](https://maps.google.com/?q=Reykjavik+Iceland)
 
 ---
 
@@ -48,8 +47,7 @@ tags = ["travel", "iceland"]
 - Kerið Crater (optional)
 
 ### Overnight
-- **Selfoss area**
-  - https://maps.google.com/?q=Selfoss+Iceland
+- [**Selfoss area**](https://maps.google.com/?q=Selfoss+Iceland)
 
 ---
 
@@ -64,8 +62,7 @@ tags = ["travel", "iceland"]
 - Kvernufoss
 
 ### Overnight
-- **Vík**
-  - https://maps.google.com/?q=Vik+Iceland
+- [**Vík**](https://maps.google.com/?q=Vik+Iceland)
 
 ---
 
@@ -79,8 +76,7 @@ tags = ["travel", "iceland"]
 - Fjaðrárgljúfur Canyon
 
 ### Overnight
-- **Kirkjubæjarklaustur area**
-  - https://maps.google.com/?q=Kirkjubaejarklaustur+Iceland
+- [**Kirkjubæjarklaustur area**](https://maps.google.com/?q=Kirkjubaejarklaustur+Iceland)
 
 ---
 
@@ -95,8 +91,7 @@ tags = ["travel", "iceland"]
 - Diamond Beach
 
 ### Overnight
-- **Jökulsárlón / Höfn area**
-  - https://maps.google.com/?q=Jokulsarlon+Glacier+Lagoon+Iceland
+- [**Jökulsárlón / Höfn area**](https://maps.google.com/?q=Jokulsarlon+Glacier+Lagoon+Iceland)
 
 ---
 
@@ -112,8 +107,7 @@ tags = ["travel", "iceland"]
 - Scenic viewpoints
 
 ### Overnight
-- **South Iceland (Selfoss / Hvolsvöllur)**
-  - https://maps.google.com/?q=Selfoss+Iceland
+- [**South Iceland (Selfoss / Hvolsvöllur)**](https://maps.google.com/?q=Selfoss+Iceland)
 
 ---
 
@@ -129,8 +123,7 @@ tags = ["travel", "iceland"]
 - Lava fields
 
 ### Overnight
-- **Snæfellsnes Peninsula (Grundarfjörður recommended)**
-  - https://maps.google.com/?q=Grundarfjordur+Iceland
+- [**Snæfellsnes Peninsula (Grundarfjörður recommended)**](https://maps.google.com/?q=Grundarfjordur+Iceland)
 
 ---
 
@@ -144,8 +137,7 @@ tags = ["travel", "iceland"]
 - Shopping and dining
 
 ### Overnight
-- **Reykjavík**
-  - https://maps.google.com/?q=Reykjavik+Iceland
+- [**Reykjavík**](https://maps.google.com/?q=Reykjavik+Iceland)
 
 ---
 
