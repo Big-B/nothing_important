@@ -11,10 +11,10 @@ tags = ["travel", "iceland"]
 ## Day 1 — Oct 8 (Travel Day)
 **Route:** Flight to Iceland
 
-**Destinations**
+### Destinations
 - Overnight flight to Iceland
 
-**Overnight**
+### Overnight
 - In flight
 
 ---
@@ -48,6 +48,7 @@ tags = ["travel", "iceland"]
 
 ### Overnight
 - **[Selfoss](https://maps.google.com/?q=Selfoss+Iceland)**
+    - [The GreenHouse Hotel](https://guidetoiceland.is/accommodation/golden-circle-hotels-accommodation/the-greenhouse-hotel?adults=2&dateFrom=2026-10-10&dateTo=2026-10-11&rooms=1)
 
 ---
 
@@ -63,6 +64,7 @@ tags = ["travel", "iceland"]
 
 ### Overnight
 - **[Vík](https://maps.google.com/?q=Vik+Iceland)**
+    - [Hotel Katla](https://guidetoiceland.is/accommodation/iceland-hotels-vik/hotel-katla-by-keahotels?adults=1&dateFrom=2026-10-11&dateTo=2026-10-12&rooms=1)
 
 ---
 
@@ -77,6 +79,7 @@ tags = ["travel", "iceland"]
 
 ### Overnight
 - **[Kirkjubæjarklaustur](https://maps.google.com/?q=Kirkjubaejarklaustur+Iceland)**
+- [Hotel Laki](https://guidetoiceland.is/accommodation/iceland-hotels-kirkjubaejarklaustur/hotel-laki-3?adults=2&dateFrom=2026-10-12&dateTo=2026-10-13&rooms=1)
 
 ---
 
@@ -92,6 +95,8 @@ tags = ["travel", "iceland"]
 
 ### Overnight
 - **[Jökulsárlón](https://maps.google.com/?q=Jokulsarlon+Glacier+Lagoon)** *(or nearby Höfn)*
+    - [Fosshotel Glacier Lagoon](https://guidetoiceland.is/accommodation/iceland-hotels-jokulsarlon/fosshotel-glacier-lagoon-4?adults=2&dateFrom=2026-10-13&dateTo=2026-10-14&rooms=1)
+        - $318
 
 ---
 
@@ -108,6 +113,8 @@ tags = ["travel", "iceland"]
 
 ### Overnight
 - **[Selfoss](https://maps.google.com/?q=Selfoss+Iceland)** *(or Hvolsvöllur)*
+    - [Hotel Laekur](https://guidetoiceland.is/accommodation/iceland-hotels-hella/hotel-laekur-3?adults=2&dateFrom=2026-10-13&dateTo=2026-10-14&rooms=1)
+        - $225
 
 ---
 
@@ -124,6 +131,8 @@ tags = ["travel", "iceland"]
 
 ### Overnight
 - **[Grundarfjörður](https://maps.google.com/?q=Grundarfjordur+Iceland)**
+    - [Hotel Karolina](https://guidetoiceland.is/accommodation/hotels-accommodation-in-stykkisholmur-1/hotel-karolina-syslo-guesthouse?adults=2&dateFrom=2026-10-15&dateTo=2026-10-16&rooms=1)
+        - $226
 
 ---
 
@@ -138,6 +147,8 @@ tags = ["travel", "iceland"]
 
 ### Overnight
 - **[Reykjavík](https://maps.google.com/?q=Reykjavik+Iceland)**
+    - [The Reykjavik EDITION](https://guidetoiceland.is/accommodation/reykjavik/the-reykjavik-edition-1?adults=2&dateFrom=2026-10-16&dateTo=2026-10-17&rooms=1)
+        - $556
 
 ---
 
