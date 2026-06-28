@@ -7,10 +7,10 @@ tags = ["travel", "iceland"]
 +++
 
 # Iceland Trip Itinerary (Oct 8–17, 2026)
-- Hotel Total Price: $2140
+- Hotel Total Price: $2386
 - Airfare: $1820
 - Rental: $500
-- Total: $4460
+- Total: $4706
 
 ---
 
@@ -38,6 +38,8 @@ tags = ["travel", "iceland"]
 
 ### Overnight
 - **[Reykjavík](https://maps.google.com/?q=Reykjavik+Iceland)**
+    - [Miðgarður](https://guidetoiceland.is/accommodation/reykjavik/midgardur-by-center-hotels?adults=2&dateFrom=2026-10-09&dateTo=2026-10-10&rooms=1)
+        - $246
 
 ---
 
