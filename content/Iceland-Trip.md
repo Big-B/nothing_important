@@ -49,6 +49,7 @@ tags = ["travel", "iceland"]
 ### Overnight
 - **[Selfoss](https://maps.google.com/?q=Selfoss+Iceland)**
     - [The GreenHouse Hotel](https://guidetoiceland.is/accommodation/golden-circle-hotels-accommodation/the-greenhouse-hotel?adults=2&dateFrom=2026-10-10&dateTo=2026-10-11&rooms=1)
+        - $262
 
 ---
 
@@ -65,6 +66,7 @@ tags = ["travel", "iceland"]
 ### Overnight
 - **[Vík](https://maps.google.com/?q=Vik+Iceland)**
     - [Hotel Katla](https://guidetoiceland.is/accommodation/iceland-hotels-vik/hotel-katla-by-keahotels?adults=1&dateFrom=2026-10-11&dateTo=2026-10-12&rooms=1)
+        - $277
 
 ---
 
@@ -80,6 +82,7 @@ tags = ["travel", "iceland"]
 ### Overnight
 - **[Kirkjubæjarklaustur](https://maps.google.com/?q=Kirkjubaejarklaustur+Iceland)**
 - [Hotel Laki](https://guidetoiceland.is/accommodation/iceland-hotels-kirkjubaejarklaustur/hotel-laki-3?adults=2&dateFrom=2026-10-12&dateTo=2026-10-13&rooms=1)
+        - $276
 
 ---
 
@@ -113,7 +116,7 @@ tags = ["travel", "iceland"]
 
 ### Overnight
 - **[Selfoss](https://maps.google.com/?q=Selfoss+Iceland)** *(or Hvolsvöllur)*
-    - [Hotel Laekur](https://guidetoiceland.is/accommodation/iceland-hotels-hella/hotel-laekur-3?adults=2&dateFrom=2026-10-13&dateTo=2026-10-14&rooms=1)
+    - [Hotel Laekur](https://guidetoiceland.is/accommodation/iceland-hotels-hella/hotel-laekur-3?adults=2&dateFrom=2026-10-14&dateTo=2026-10-15&rooms=1)
         - $225
 
 ---
