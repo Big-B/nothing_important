@@ -7,6 +7,7 @@ tags = ["travel", "iceland"]
 +++
 
 # Iceland Trip Itinerary (Oct 8–17, 2026)
+Hotel Total Price: $2140
 
 ## Day 1 — Oct 8 (Travel Day)
 **Route:** Flight to Iceland
