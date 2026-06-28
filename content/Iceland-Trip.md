@@ -7,10 +7,10 @@ tags = ["travel", "iceland"]
 +++
 
 # Iceland Trip Itinerary (Oct 8–17, 2026)
-Hotel Total Price: $2140
-Airfare: $1820
-Rental: $500
-Total: $4460
+- Hotel Total Price: $2140
+- Airfare: $1820
+- Rental: $500
+- Total: $4460
 
 ---
 
